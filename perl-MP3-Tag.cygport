@@ -3,7 +3,7 @@ inherit perl
 
 NAME="perl-MP3-Tag"
 VERSION=1.13
-RELEASE=1
+RELEASE=2
 CATEGORY="Perl"
 SUMMARY="Perl ID3 tag module"
 DESCRIPTION="This is a Perl module to read/write ID3v1, ID3v1.1 and ID3v2.3
